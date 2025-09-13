@@ -12,7 +12,7 @@ Welcome to the Power BI Dashboards Repository! This repository contains a collec
 
 To use the Power BI dashboards in this repository, you'll need to have Power BI Desktop installed on your computer. You can download Power BI Desktop for free from the [Microsoft website](https://powerbi.microsoft.com/en-us/desktop/).
 
-Once you have Power BI Desktop installed, you can download a dashboard project from this repository by clicking on the project folder and downloading the .pbix file. Then, open the .pbix file in Power BI Desktop and start exploring the dashboard!
+Once you have Power BI Desktop installed, you can download a dashboard project from this repository by clicking on the project folder and downloading the .pbix file. Then, open the .pbix file in Power BI Desktop and start exploring the dashboard.
 
 ## Dashboard Projects
 
