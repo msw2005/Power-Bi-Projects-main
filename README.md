@@ -16,7 +16,7 @@ Once you have Power BI Desktop installed, you can download a dashboard project f
 
 ## Dashboard Projects
 
-This repository contains the following dashboard project:
+This repository contains the following dashboard project,
 
 - [Projet1 - HR analytics dashboard]: A dashboard that displays HR data for a company, including Attrition count of Employees, Job Satisfaction rate, and Job Roles.
 - [Project 2 - Financial Report]: A dashboard that displays a summary on profits of a company
