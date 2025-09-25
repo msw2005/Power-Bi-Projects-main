@@ -5,7 +5,7 @@ Welcome to the Power BI Dashboards Repository! This repository contains a collec
 ## Table of Contents
 
 - [Getting Started](#getting-started) ,
-- [Dashboard Projects](#dashboard-projects)
+- [Dashboard Projects](#dashboard-projects),
 
 
 ## Getting Started
